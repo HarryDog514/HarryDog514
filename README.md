@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarryDog514
 - 👀 I’m interested in Gorilla Tag Fangames.
 - 🌱 I’m currently learning Unity C#
-- 💞️ I’m looking to collaborate on Curious Chimps (my fangame)
+- 💞️ I’m looking to work on Curious Chimps (my fangame)
 - 📫 How to reach me: Please don't email me my inbox is exploding
 
 <!---
